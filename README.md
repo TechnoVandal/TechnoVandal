@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on not much however will try where I can
 - 📫 How to reach me simple msg/dm/social media
 - 😄 Pronouns: They/Them
-- ⚡ Fun fact: I love Ada!
+- ⚡ Fun fact: I love Ada!!
 
 <!---
 TechnoVandal/TechnoVandal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
